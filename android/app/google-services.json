@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966805984725",
+    "project_id": "kavin-market-app",
+    "storage_bucket": "kavin-market-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966805984725:android:1ebb3bb11c1fa1725d195c",
+        "android_client_info": {
+          "package_name": "com.chitra.kavinmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966805984725-9scucaboeqmkko8kkm0m1cs774nk9nk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPyKadyMYdeiYZW-E9iRun3MR0iDQTfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966805984725-9scucaboeqmkko8kkm0m1cs774nk9nk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
